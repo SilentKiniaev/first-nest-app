@@ -3,7 +3,7 @@
 My first Nest app. 
 Main features:
 - have followers and followings as app user
-- image uploading and preservation via cloudinary file storage
+- uploading images and preservation them via cloudinary file storage
 
 ## Installation
 
